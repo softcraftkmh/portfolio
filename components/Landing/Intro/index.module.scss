@@ -1,0 +1,20 @@
+.container {
+  width: 100%;
+  height: auto;
+  margin: 15vh auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.description {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.title {
+  margin: auto;
+}
