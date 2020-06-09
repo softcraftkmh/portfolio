@@ -13,7 +13,13 @@ const Details = () => {
         <p className={styles.content_desc}>+95 9 795692469</p>
         <p className={styles.content_title}>Email: </p>
         <p className={styles.content_desc}>
-          <a href="mailto:softcraftkmh@gmail.com">softcraftkmh@gmail.com</a>
+          <a
+            href="mailto:softcraftkmh@gmail.com"
+            target="_blank"
+            rel="noopener"
+          >
+            softcraftkmh@gmail.com
+          </a>
         </p>
         <p className={styles.content_title}>Github: </p>
         <p className={styles.content_desc}>
