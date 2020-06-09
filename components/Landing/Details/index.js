@@ -9,8 +9,6 @@ const Details = () => {
         <p className={styles.content_desc}>Kaung Myat Hein</p>
         <p className={styles.content_title}>Age: </p>
         <p className={styles.content_desc}>24 Years</p>
-        <p className={styles.content_title}>NRC: </p>
-        <p className={styles.content_desc}>10/ THN (N) 207319</p>
         <p className={styles.content_title}>Mobile Ph: </p>
         <p className={styles.content_desc}>+95 9 795692469</p>
         <p className={styles.content_title}>Email: </p>

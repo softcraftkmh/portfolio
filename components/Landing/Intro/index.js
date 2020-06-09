@@ -23,7 +23,7 @@ const Intro = () => {
   useEffect(() => {
     setTimeout(() => {
       setTitles(_.shuffle(titles));
-    }, 5000);
+    }, 2000);
   }, [titles]);
 
   return (
