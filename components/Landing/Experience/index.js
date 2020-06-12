@@ -5,6 +5,11 @@ import styles from "./index.module.scss";
 
 const INFOS = [
   {
+    title: "SoftCraft Digital",
+    image: "/softcraft.jpg",
+    link: "https://www.softcraft.digital",
+  },
+  {
     title: "Marathon Express (Logistics Office-use System)",
     image: "/marathon.jpg",
     link: "https://www.marathonmyanmar.com",
@@ -13,11 +18,6 @@ const INFOS = [
     title: "Ready To Travel",
     image: "/rtt.jpg",
     link: "https://www.readytotravel.com",
-  },
-  {
-    title: "SoftCraft Digital",
-    image: "/softcraft.jpg",
-    link: "https://www.softcraft.digital",
   },
 ];
 
