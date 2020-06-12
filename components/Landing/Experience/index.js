@@ -10,14 +10,14 @@ const INFOS = [
     link: "https://www.softcraft.digital",
   },
   {
-    title: "Marathon Express (Logistics Office-use System)",
-    image: "/marathon.jpg",
-    link: "https://www.marathonmyanmar.com",
-  },
-  {
     title: "Ready To Travel",
     image: "/rtt.jpg",
     link: "https://www.readytotravel.com",
+  },
+  {
+    title: "Marathon Express (Logistics Office-use System)",
+    image: "/marathon.jpg",
+    link: "https://www.marathonmyanmar.com",
   },
 ];
 
